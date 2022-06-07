@@ -1,0 +1,4 @@
+﻿  database.cpp
+D:\vs\boxman\boxman\database.cpp(163,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs\boxman\boxman\database.cpp(166,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  boxman.vcxproj -> D:\vs\boxman\x64\Debug\boxman.exe
